@@ -14,32 +14,33 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Bishal Adhikary # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Java Developer | SpringBoot | MySQL | Maven | JavaFX  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Showcasing Advanced Java Projects and Ideas.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "bishalraiganj.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: bishalraiganj # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+LinkedIn:
+  username: bishaladhikar7111 # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Bishal Adhikary
+  email: bishaladhikary6297@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    -  # change to your Twitter homepage
+    - https://www.linkedin.com/in/bishaladhikary111/
+    - https://github.com/bishalraiganj # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
